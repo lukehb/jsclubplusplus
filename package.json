@@ -1,0 +1,25 @@
+{
+  "name": "jsintro",
+  "version": "0.0.0",
+  "description": "wk1 material to teach js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukehb/jsclubplusplus.git"
+  },
+  "keywords": [
+    "js",
+    "io",
+    "git",
+    "learning"
+  ],
+  "author": "luke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukehb/jsclubplusplus/issues"
+  },
+  "homepage": "https://github.com/lukehb/jsclubplusplus"
+}
