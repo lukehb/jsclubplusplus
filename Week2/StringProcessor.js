@@ -2,7 +2,7 @@ function StringProcessor() {}
 
 //Returns the middle character of a string if the string length is odd,
 //otherwise returns the middle two characters of a string if the length is even
-StringProcessor.prototype.middleChar = function(str)
+StringProcessor.prototype.middleChars = function(str)
 {
 	return null;
 }
