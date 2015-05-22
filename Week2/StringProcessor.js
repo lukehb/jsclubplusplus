@@ -49,14 +49,5 @@ StringProcessor.prototype.replaceJWithExclamation = function(str) {
 	return null;
 }
 
-//Doubles every instance of a consonant
-StringProcessor.prototype.doubleConsonants = function(str) {
-	return null;
-}
-
-//Inserts the string "and" in the middle of every two-letter word
-StringProcessor.prototype.andifyTwoLetterWords = function(str) {
-	return null;
-}
 
 module.exports = StringProcessor;
