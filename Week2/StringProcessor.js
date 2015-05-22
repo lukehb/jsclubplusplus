@@ -4,7 +4,7 @@ function StringProcessor() {}
 //otherwise returns the middle two characters of a string if the length is even
 StringProcessor.prototype.middleChar = function(str)
 {
-	return null;
+	return "noooooo";
 }
 
 //Returns the first word in a string that has a length of at least seven letters
