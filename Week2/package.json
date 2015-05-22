@@ -1,0 +1,30 @@
+{
+	"name":        "ArtyStrings",
+	"description": "Arty Strings Javascript Demo",
+	"homepage":    "https://github.com/lukehb/jsclubplusplus",
+	"main":        "ArtyStrings.js",
+	"version":     "1.0.0",
+	
+	"files": [
+		"ArtyStrings.js",
+		"StringProcessor.js"
+	],
+	
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	
+	"author": {
+		"name":  "Adam Rehn",
+		"email": "adam@adamrehn.com"
+	},
+	
+	"repository": {
+		"type": "git",
+		"url":  "https://github.com/lukehb/jsclubplusplus"
+	},
+	
+	"dependencies": {
+		"asciify": "*"
+	}
+}
