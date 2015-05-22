@@ -10,7 +10,7 @@ StringProcessor.prototype.middleChar = function(str)
 //Returns the first word in a string that has a length of at least seven letters
 StringProcessor.prototype.firstWordWithAtLeastSevenLetters = function(str)
 {
-	return null;
+	return "Seven";
 }
 
 //Returns all of the vowels in a string
