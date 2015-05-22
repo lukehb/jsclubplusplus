@@ -15,7 +15,7 @@ StringProcessor.prototype.firstWordWithAtLeastSevenLetters = function(str)
 
 //Returns all of the vowels in a string
 StringProcessor.prototype.onlyVowels = function(str) {
-	return null;
+	return "aeiou";
 }
 
 //Converts all vowels in a string to uppercase
