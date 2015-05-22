@@ -65,7 +65,7 @@ StringProcessor.prototype.replaceJWithExclamation = function(str) {
 	{
 		var char = str.substr(i, 1);
 		
-		if (char == 'j' && char == 'J')
+		if (char == 'j' || char == 'J')
 		{
 			char = '!';
 		}
