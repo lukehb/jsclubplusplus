@@ -8,6 +8,10 @@ function player(){
 		
 };
 
+player.prototype.getInstance = function() {
+	return null;
+}
+
 player.prototype.reversabet = function(nLetters){
 	var offset = 26 - nLetters;
 	var endOnChar =  97 + offset;
